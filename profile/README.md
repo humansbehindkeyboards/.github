@@ -6,6 +6,7 @@
 
 <h6>
   <sup>
+    $ 
     <a href="https://github.com/imgios">aW1naW9zCg==</a> //
     <a href="https://github.com/lucaam">bHVjYWFt</a> //
     <a href="https://github.com/mrgionsi">bXJnaW9uc2k=</a> //

@@ -1,7 +1,7 @@
 ### ― Humans Behind Keyboards ⌨️
 
 <pre>
-  // We are simply humans, and IT lovers, behind (mechanical) keyboards.
+  // We are simply human beings, and IT lovers, behind (mechanical) keyboards.
 </pre>
 
 <h6>
